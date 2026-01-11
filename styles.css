@@ -20,6 +20,8 @@
   box-sizing: border-box;
 }
 
+html { scroll-behavior: smooth; }
+
 body {
   margin: 0;
   background: linear-gradient(180deg, #071028 0%, #071022 100%);
